@@ -1,3 +1,4 @@
 local1: valueLocal1
 local2: valueLocal2
 local3: valueLocal3
+message: localValue
